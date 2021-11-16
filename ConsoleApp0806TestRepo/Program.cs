@@ -4,5 +4,3 @@ Console.WriteLine("Hello, World!");
 //hello
 //chadddddneg
 //vhnhndfd
-//chadfsdfneg
-//vhnhndfdddjsdfsdfsdhjahsjdf
