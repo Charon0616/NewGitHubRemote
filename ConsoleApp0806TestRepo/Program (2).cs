@@ -6,10 +6,6 @@ Console.WriteLine("Hello, World!");
 //vhnhndfdddjhjahsjdf
 //Nesdfw55
 Console.WriteLine("Hello namsfgsdfgsdffsssse World!");
-            
-            
-            
-           
 Console.WriteLine("Hello the fffWorld!");
           
             
